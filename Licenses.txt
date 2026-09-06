@@ -1,0 +1,134 @@
+================================================================================
+                        APL - Arabic Programming Language
+                    License / الترخيص
+================================================================================
+
+================================================================================
+                        1. Application Code License
+                    رخصة كود التطبيق (MIT License)
+================================================================================
+
+MIT License
+
+Copyright (c) 2026 Mohammed Haider
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+================================================================================
+                                      العربية
+================================================================================
+
+رخصة MIT
+
+حقوق النشر (ج) 2026 محمد حيدر
+
+يُسمح لأي شخص يحصل على نسخة من هذا البرنامج وملفات التوثيق المرافقة له
+(البرنامج)، بالتعامل مع البرنامج دون قيود، بما في ذلك حقوق الاستخدام والنسخ
+والتعديل والدمج والنشر والتوزيع والترخيص من الباطن و/أو بيع نسخ من البرنامج،
+وإذن بذلك للأشخاص الذين يتم تزويدهم بالبرنامج، وذلك مع الالتزام بالشروط التالية:
+
+يجب تضمين إشعار حقوق النشر أعلاه وإشعار الترخيص هذا في جميع نسخ البرنامج
+أو الأجزاء الجوهرية منه.
+
+يُقدم البرنامج "كما هو"، دون أي ضمان من أي نوع، صريح أو ضمني، بما في ذلك على
+سبيل المثال لا الحصر ضمانات القابلية للتسويق والملاءمة لغرض معين وعدم التعدي.
+في أي حال من الأحوال، لا يكون المؤلفون أو أصحاب حقوق النشر مسؤولين عن أي مطالبة
+أو أضرار أو أي مسؤولية أخرى، سواء في دعوى عقد أو ضرر أو غير ذلك، تنشأ عن أو
+بسبب أو فيما يتعلق بالبرنامج أو استخدامه أو أي تعامل آخر فيه.
+
+================================================================================
+                        2. Third-Party Libraries Licenses
+                    تراخيص المكتبات الخارجية المستخدمة
+================================================================================
+
+هذا المشروع يستخدم المكتبات التالية، ولكل منها رخصتها الخاصة وشروط استخدامها.
+This project uses the following libraries, each with its own license and terms.
+
+================================================================================
+1. Assimp (Open Asset Import Library)
+================================================================================
+License: BSD-3-Clause
+Copyright (c) 2006-2024, assimp team
+Full text: https://github.com/assimp/assimp/blob/master/LICENSE
+
+================================================================================
+2. Bullet Physics
+================================================================================
+License: zlib/libpng License
+Copyright (c) 2003-2024, Erwin Coumans
+Full text: https://github.com/bulletphysics/bullet3/blob/master/LICENSE.txt
+
+================================================================================
+3. GLFW
+================================================================================
+License: zlib/libpng License
+Copyright (c) 2002-2006, Marcus Geelnard
+Full text: https://github.com/glfw/glfw/blob/master/LICENSE.md
+
+================================================================================
+4. GLEW (OpenGL Extension Wrangler)
+================================================================================
+License: BSD-3-Clause and MIT (dual-licensed)
+Copyright (c) 2002-2007, Milan Ikits, Marcelo E. Magallon, Lev Povalahev
+Full text: https://github.com/nigels-com/glew/blob/master/LICENSE.txt
+
+================================================================================
+5. GLM (OpenGL Mathematics)
+================================================================================
+License: MIT License
+Copyright (c) 2005-2024, G-Truc Creation
+Full text: https://github.com/g-truc/glm/blob/master/copying.txt
+
+================================================================================
+6. OpenAL Soft
+================================================================================
+License: LGPL-2.0-or-later
+Copyright (c) 2000-2024, OpenAL Soft contributors
+Full text: https://github.com/kcat/openal-soft/blob/master/COPYING
+
+================================================================================
+7. ALUT (OpenAL Utility Toolkit)
+================================================================================
+License: LGPL-2.0-or-later
+Copyright (c) 2000-2004, OpenAL community
+Full text: https://github.com/vancegroup/alut/blob/master/COPYING
+
+================================================================================
+9. zlib (used by Assimp)
+================================================================================
+License: zlib License
+Copyright (c) 1995-2026, Jean-loup Gailly and Mark Adler
+Full text: https://github.com/madler/zlib/blob/master/LICENSE
+
+================================================================================
+                         Important Notes / ملاحظات مهمة
+================================================================================
+
+- Each library retains its original license and terms of use.
+- Using these libraries in this project does not change the terms of their
+  original licenses.
+- Copyright notices and licenses must be included when distributing this
+  software.
+
+- كل مكتبة تحتفظ برخصتها الأصلية وشروط استخدامها.
+- استخدام هذه المكتبات في هذا المشروع لا يغير من شروط تراخيصها الأصلية.
+- يجب تضمين إشعارات حقوق النشر والتراخيص عند توزيع هذا البرنامج.
+
+For more information about each license, please visit the links above.
+لمزيد من المعلومات حول كل رخصة، يرجى زيارة الروابط المذكورة أعلاه.

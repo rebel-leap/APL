@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libBullet3Common.a CMakeFiles/Bullet3Common.dir/b3AlignedAllocator.cpp.obj CMakeFiles/Bullet3Common.dir/b3Vector3.cpp.obj CMakeFiles/Bullet3Common.dir/b3Logging.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libBullet3Common.a

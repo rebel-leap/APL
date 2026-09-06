@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\..\lib\libBullet2FileLoader.a CMakeFiles/Bullet2FileLoader.dir/b3BulletFile.cpp.obj CMakeFiles/Bullet2FileLoader.dir/b3Chunk.cpp.obj CMakeFiles/Bullet2FileLoader.dir/b3DNA.cpp.obj CMakeFiles/Bullet2FileLoader.dir/b3File.cpp.obj CMakeFiles/Bullet2FileLoader.dir/b3Serializer.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\..\lib\libBullet2FileLoader.a

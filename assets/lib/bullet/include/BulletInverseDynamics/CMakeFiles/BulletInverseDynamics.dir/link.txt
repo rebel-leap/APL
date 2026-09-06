@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libBulletInverseDynamics.a CMakeFiles/BulletInverseDynamics.dir/IDMath.cpp.obj CMakeFiles/BulletInverseDynamics.dir/MultiBodyTree.cpp.obj CMakeFiles/BulletInverseDynamics.dir/details/MultiBodyTreeInitCache.cpp.obj CMakeFiles/BulletInverseDynamics.dir/details/MultiBodyTreeImpl.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libBulletInverseDynamics.a

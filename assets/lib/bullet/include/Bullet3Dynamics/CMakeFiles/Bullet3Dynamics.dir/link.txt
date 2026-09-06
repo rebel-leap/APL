@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libBullet3Dynamics.a CMakeFiles/Bullet3Dynamics.dir/b3CpuRigidBodyPipeline.cpp.obj CMakeFiles/Bullet3Dynamics.dir/ConstraintSolver/b3FixedConstraint.cpp.obj CMakeFiles/Bullet3Dynamics.dir/ConstraintSolver/b3Generic6DofConstraint.cpp.obj CMakeFiles/Bullet3Dynamics.dir/ConstraintSolver/b3PgsJacobiSolver.cpp.obj CMakeFiles/Bullet3Dynamics.dir/ConstraintSolver/b3Point2PointConstraint.cpp.obj CMakeFiles/Bullet3Dynamics.dir/ConstraintSolver/b3TypedConstraint.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libBullet3Dynamics.a

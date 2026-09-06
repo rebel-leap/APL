@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libBullet3Geometry.a CMakeFiles/Bullet3Geometry.dir/b3ConvexHullComputer.cpp.obj CMakeFiles/Bullet3Geometry.dir/b3GeometryUtil.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libBullet3Geometry.a

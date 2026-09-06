@@ -1,0 +1,2 @@
+C:\mingw64\bin\ar.exe qc ..\..\lib\libBullet3Collision.a CMakeFiles/Bullet3Collision.dir/BroadPhaseCollision/b3DynamicBvh.cpp.obj CMakeFiles/Bullet3Collision.dir/BroadPhaseCollision/b3DynamicBvhBroadphase.cpp.obj CMakeFiles/Bullet3Collision.dir/BroadPhaseCollision/b3OverlappingPairCache.cpp.obj CMakeFiles/Bullet3Collision.dir/NarrowPhaseCollision/b3ConvexUtility.cpp.obj CMakeFiles/Bullet3Collision.dir/NarrowPhaseCollision/b3CpuNarrowPhase.cpp.obj
+C:\mingw64\bin\ranlib.exe ..\..\lib\libBullet3Collision.a
