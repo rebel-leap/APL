@@ -15,5 +15,5 @@ MIT Modified - انظر LICENSE.txt
 # المؤلف:
 
 محمد حيدر,12 عام
-Telegram: https://t.me/Apl4\_0applicant
+قناة Telegram: https://t.me/Apl4\_0applicant
 
